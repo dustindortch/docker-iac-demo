@@ -1,0 +1,31 @@
+# Local .terraform directories
+**/.terraform/*
+
+# Terraform state files
+*.tfstate
+*.tfstate.*
+
+# Terraform lock files
+.terraform.lock.hcl
+
+# Terraform input variable files
+*.tfvars
+*.tfvars.json
+
+# Allow example Terraform input variable files (no *real* sensitive data allowed)
+!example.tfvars
+!example.tfvars.json
+
+# Ignore CLI configuration files
+.terraformrc
+terraform.rc
+
+# Terraform plan files (by common convention)
+tfplan
+*.tfplan
+
+# Docker environment variables file
+DOCKER_ENV_FILE.ini
+
+# Environment variables script
+set_my_env_vars.sh
