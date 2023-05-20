@@ -29,7 +29,7 @@ The build scripts accepts the following environment variables:
 ### Usage
 
 ```bash
-./build.sh [DOCKER_IMAGE_NAME [DOCKER_IMAGE_TAG]]
+./build.sh [<DOCKER_IMAGE_NAME> [<DOCKER_IMAGE_TAG>]]
 ```
 
 ## Docker run script
