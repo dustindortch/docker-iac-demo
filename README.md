@@ -14,6 +14,10 @@ It contains three useful scripts:
 * `./example_env_vars.sh` - Set environment variables script
 * `./wkd/tf-run.sh`       - Terraform runner
 
+## Update: Rancher Desktop
+
+I have been unnecessarily apprehensive to switch from Docker Desktop to Rancher Desktop.  I made the switch on my MacBook and the apprehension was unwarranted.  It works great!
+
 ## Docker build script
 
 The build scripts accepts the following environment variables:
